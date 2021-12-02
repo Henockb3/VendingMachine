@@ -1,0 +1,5 @@
+Water::2.50::5
+Kitkat::2.00::4
+Snickers::2.50::3
+Pepsi::2.50::2
+Cheetos::2.00::0
